@@ -1,17 +1,17 @@
-## Изучение закономерностей определяющих успешность игр
+## Исследование мобильного приложения
 #### статус: завершен
 
-[Посмотреть HTML версию (table of contents included)](https://ivanvashkovets.github.io/html_pages/games.html)
+[Посмотреть HTML версию (table of contents included)](https://ivanvashkovets.github.io/html_pages/aab.html)
 
-[Посмотреть Jupyter Notebook project](https://github.com/IvanVashkovets/Portfolio/blob/main/Изучение%20закономерностей%20определяющих%20успешность%20игр/games.ipynb)
+[Посмотреть Jupyter Notebook project](https://github.com/IvanVashkovets/Portfolio/blob/main/Исследование%20мобильного%20приложения/aab.ipynb)
 
 [Назад к списку проектов](https://github.com/IvanVashkovets/Portfolio/tree/main)
 
 ## Описание
-Изучение исторических данных о продажах игр. Выявлены параметры, определяющие успешность игры в разных регионах мира. Составлены портреты пользователей каждого региона, проверены статистические гипотезы.
+В продукте тестируется новый шрифт. Для определения эффекта запущен AB тест, ожидается увеличение конверсии из посетителя в клиента.
 
 ## Задача
-Определение закономерностей, которые позволят спрогнозировать успешность игры. 
+Анализ пользовательской активности мобильного приложения по продаже продуктов питания, а также исследование результатов A/A/B-эксперимента, проведенного для тестирования нового шрифта приложения.
 
 ## Используемые библиотеки
-pandas, scipy, numpy, matplotlib, seaborn
+statsmodels, plotly, scipy, pandas, matplotlib
