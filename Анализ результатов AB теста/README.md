@@ -1,6 +1,6 @@
 ## Анализ результатов AB теста
 #### статус: завершен
-[Посмотреть HTML версию](https://github.com/IvanVashkovets/Portfolio/tree/main/Анализ%20результатов%20AB%20теста)
+[Посмотреть HTML версию](https://ivanvashkovets.github.io/html_pages/ABtest.html)
 
 ## Данные
 
