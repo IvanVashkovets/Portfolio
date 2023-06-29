@@ -16,4 +16,4 @@
 - проанализировать результаты теста.
 
 ## Используемые библиотеки
-pandas, numpy, matplotlib, seaborn
+pandas, numpy, scipy, matplotlib, seaborn
