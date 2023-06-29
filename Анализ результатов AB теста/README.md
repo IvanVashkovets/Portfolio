@@ -2,6 +2,8 @@
 #### статус: завершен
 [Посмотреть HTML версию](https://ivanvashkovets.github.io/html_pages/ABtest.html)
 
+[Посмотреть Jupyter Notebook project](https://github.com/IvanVashkovets/Portfolio/blob/main/Анализ%20результатов%20AB%20теста/ABtest.ipynb)
+
 ## Данные
 
 В наличии были следующие данные о прослушиваниях треков в сервисе Яндекс.Музыка:
