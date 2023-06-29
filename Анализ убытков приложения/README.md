@@ -1,4 +1,4 @@
-## Анализ результатов AB теста
+## Анализ бизнес - показателей
 #### статус: завершен
 
 [Посмотреть HTML версию (table of contents included)](https://ivanvashkovets.github.io/html_pages/bussines_analysis.html)
