@@ -11,7 +11,7 @@
 | [Проект по SQL](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
 | [AB тесты](https://github.com/IvanVashkovets/Portfolio/tree/main/AB%20тесты) | Проведение симуляции AA тестов, анализ результатов AB теста с использованием различных статистических тестов. Применение линеаризации.| pandas, pandahouse, statsmodels |
 | [Автоматизация отчетности](https://github.com/IvanVashkovets/Portfolio/tree/main/Автоматизация%20отчетности) | Создание скрипта на базе Airflow, позволяющего автоматизировать отправление аналитической сводки по ряду метрик в чат Telegram.| pandas, matplotlib, seaborn, telegram |
-| [Анализ продуктовых метрик](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
+| [Анализ продуктовых метрик](https://github.com/IvanVashkovets/Portfolio/tree/main/Анализ%20продуктовых%20метрик) | Ad Hoc исследования метрик (retention, качество рекламного траффика, просадка активной аудитории)| clickhouse, sql, superset |
 | [Построение ETL пайплайна](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
 | [Построение дашбордов в Superset](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
 | [Система алертов](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
