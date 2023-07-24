@@ -10,7 +10,7 @@
 | [Оценка результатов AB теста](https://github.com/IvanVashkovets/Portfolio/tree/main/Оценка%20результатов%20AB%20теста) | Используя данные интернет-магазина, произвести оценку результатов A/B-тестирования. | pandas, re, scipy, matplotlib, seaborn |
 | [Проект по SQL](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
 | [AB тесты](https://github.com/IvanVashkovets/Portfolio/tree/main/AB%20тесты) | Проведение симуляции AA тестов, анализ результатов AB теста с использованием различных статистических тестов. Применение линеаризации.| pandas, pandahouse, statsmodels |
-| [Автоматизация отчетности](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
+| [Автоматизация отчетности](https://github.com/IvanVashkovets/Portfolio/tree/main/Автоматизация%20отчетности) | Создание скрипта на базе Airflow, позволяющего автоматизировать отправление аналитической сводки по ряду метрик в чат Telegram.| pandas, matplotlib, seaborn, telegram |
 | [Анализ продуктовых метрик](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
 | [Построение ETL пайплайна](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
 | [Построение дашбордов в Superset](https://github.com/IvanVashkovets/Portfolio/tree/main/Проект%20по%20SQL) | Серия SQL Ad hoc запросов в базу данных| pandas, sqlalchemy |
