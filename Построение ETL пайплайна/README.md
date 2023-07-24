@@ -3,7 +3,7 @@
 
 [Посмотреть HTML версию](https://ivanvashkovets.github.io/html_pages/Построение%20ETL%20пайплайна.html)
 
-[Посмотреть Jupyter Notebook project](https://ivanvashkovets.github.io/html_pages/Построение%20ETL%20пайплайна.html)
+[Посмотреть Jupyter Notebook project](https://github.com/IvanVashkovets/Portfolio/blob/main/Построение%20ETL%20пайплайна/Построение%20ETL%20пайплайна.ipynb)
 
 [Назад к списку проектов](https://github.com/IvanVashkovets/Portfolio/tree/main)
 
