@@ -1,7 +1,7 @@
 ## Анализ результатов AB теста
 #### статус: завершен
 
-[Посмотреть HTML версию (table of contents included)](https://github.com/IvanVashkovets/html_pages/blob/main/ABtest_Task%201.html)
+[Посмотреть HTML версию (table of contents included)](https://ivanvashkovets.github.io/html_pages/ABtest_Task 1.html)
 
 [Посмотреть Jupyter Notebook project](https://github.com/IvanVashkovets/Portfolio/blob/main/Анализ%20результатов%20AB%20теста/ABtest.ipynb)
 
